@@ -80,7 +80,7 @@ Download from: https://github.com/UB-Mannheim/tesseract/wiki
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/fyp-manipulation-detector.git
+git clone https://github.com/Lxith2007fyp-manipulation-detector.git
 cd fyp-manipulation-detector
 ```
 
